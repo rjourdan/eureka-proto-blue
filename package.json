@@ -1,0 +1,11 @@
+{
+  "name": "eureka-proto-blue",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve --port=8082"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-img": "^1.1.0"
+  }
+}
