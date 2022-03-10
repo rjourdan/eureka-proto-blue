@@ -10,7 +10,7 @@ heroColor: dark
 # Want to Write for this Blog?
 Follow these four simple steps and your content will be live before you know it.
 
-## 1. Pick a Title, Description, and Banner Images
+## 1. Pick a Title, Description, and Hero Image
 Open [this GitHub Repository](https://github.com/robzhu/eureka-proto-blue) and click "Create new file"
 
 ![Screenshot of creating a new file in the repository](./create-new-file.png)
