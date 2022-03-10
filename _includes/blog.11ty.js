@@ -14,7 +14,7 @@ exports.render = async function(data) {
       <meta name="description" content="${data.description}">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta http-equiv="Content-Security-Policy"
-            content="default-src 'self'; img-src https://*; child-src 'none';">
+            content="default-src 'unsafe-inline' 'self'; img-src 'self' https://*; child-src 'none'; font-src fonts.gstatic.com;style-src 'unsafe-inline' 'self' fonts.googleapis.com;">
       <link rel="stylesheet" href="/static/styles.css">
       <link rel="preconnect" href="https://fonts.gstatic.com">
       <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">

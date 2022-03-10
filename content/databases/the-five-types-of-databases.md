@@ -44,7 +44,7 @@ Vestibulum at mi quis purus facilisis condimentum. Praesent molestie leo quis pu
 ## Graph
 Ut ac urna justo. Fusce quis tempor arcu, et luctus nisl. Maecenas ac massa condimentum, fermentum erat sed, blandit eros. Sed maximus viverra facilisis. Aenean rhoncus non mi non consequat. Pellentesque maximus dui quis turpis tincidunt, ut tristique urna varius. Phasellus hendrerit leo justo, sit amet sagittis dolor tempus a.
 
-![Tux, the Linux mascot](https://miro.medium.com/max/1200/1*Xw7DCLDx49q1k14duZmxEQ.png)
+![Leader Election in Raft](/img/raft.png)
 
 ## Time-Series
 Vestibulum non egestas dui. Cras id vulputate mi. Donec cursus, justo ullamcorper ultricies malesuada, quam tortor fermentum nunc, non porttitor nisi erat ornare metus. Sed eu viverra odio. Integer sit amet pharetra sapien, eget gravida nisl. In molestie nunc a enim scelerisque tristique. In varius neque urna, vitae tempor enim dignissim ac. Donec tincidunt purus lorem. Aenean et vehicula nulla. Nulla vel mi nunc. Maecenas tempus eleifend ex sit amet commodo. Aenean sagittis molestie quam, nec tempor quam. Vivamus ullamcorper, ipsum sit amet feugiat lacinia, libero velit euismod odio, eget vestibulum ligula urna sollicitudin felis. Aliquam accumsan, ante sit amet euismod posuere, nunc justo feugiat nisl, in faucibus turpis velit iaculis elit. Nunc ac lorem eu lorem posuere dignissim. Donec fermentum lacus et neque aliquet lobortis.
