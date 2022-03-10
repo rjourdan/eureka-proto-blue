@@ -34,13 +34,13 @@ This will create a special header for your blog post called the "Front Matter". 
 - `heroColor` describes the over all color of your banner image and it can be `light` or `dark`. We will choose a foreground text color to maximize contrast and readability. 
 - Try to choose a banner image that has relatively smooth colors and transitions. 
 
-You can check out the [source code for this blog post](https://raw.githubusercontent.com/robzhu/eureka-proto-blue/main/README.md) for reference.
+You can check out the [source code for this blog post](https://raw.githubusercontent.com/robzhu/eureka-proto-blue/main/README.md?token=GHSAT0AAAAAABPSQ7JKXFNTA53UQ5ZRDR5UYRSYMWA) for reference.
 
 ## 2. Write your Blog in Markdown
 
 Next, write some Markdown and use the "Preview" button in the editor to preview your work. Here's a handy Markdown cheat sheet: https://www.markdownguide.org/basic-syntax/.
 
-If you don't want to start from scratch, you can copy the Markdown for [the content you're reading right now](https://raw.githubusercontent.com/robzhu/eureka-proto-blue/main/README.md)
+If you don't want to start from scratch, you can copy the Markdown for [the content you're reading right now](https://raw.githubusercontent.com/robzhu/eureka-proto-blue/main/README.md?token=GHSAT0AAAAAABPSQ7JKXFNTA53UQ5ZRDR5UYRSYMWA)
 
 ![Screenshot of naming and editing a new markdown file](/img/write-markdown.png)
 
