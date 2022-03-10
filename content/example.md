@@ -1,7 +1,7 @@
 ---
 layout: blog.11ty.js
 title: Blog Title
-description: Blog Description. Note: This will be used for SEO!
+description: Blog Description. This will be used for SEO! Cannot contain the colon character.
 hero: https://images.unsplash.com/photo-1497443505411-625700fc83c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000
 heroCropMode: bottom
 heroColor: dark
